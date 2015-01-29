@@ -1,0 +1,7 @@
+name = Eau de Web extras
+description = Extra utilities from EdW underground facility
+core = 7.x
+package = edw
+version = 7.x-1.0
+project = edw_extras
+files[] = edw_extras.cache.inc
