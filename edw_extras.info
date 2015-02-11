@@ -5,3 +5,4 @@ package = edw
 version = 7.x-1.0
 project = edw_extras
 files[] = edw_extras.cache.inc
+project status url = http://fserver.eaudeweb.ro/fserver
