@@ -1,1 +1,8 @@
 <?php
+
+/**
+ * Implements hook_edw_extras_security_plugin().
+ */
+function edw_extras_edw_extras_security_plugin() {
+  return array('EdwSecurityRegistryPlugin');
+}
