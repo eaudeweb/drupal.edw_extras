@@ -1,5 +1,7 @@
 <?php
 
+include_once 'edw_extras.devel.inc';
+
 /**
  * Implements hook_edw_extras_security_plugin().
  */
